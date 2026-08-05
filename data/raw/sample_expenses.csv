@@ -1,0 +1,11 @@
+Fecha,Concepto,Movimiento,Importe,CategoriaNivel1,CategoriaLeaf,CategoriaPath
+2026-01-02,NOMINA EMPRESA DEMO,Ingreso nomina,1850.00,Ingresos,Ingresos personales,Ingresos > Ingresos personales
+2026-01-03,SUPERMERCADO NORTE,Compra tarjeta,-42.35,Alimentacion,Supermercado,Alimentacion > Supermercado
+2026-01-04,CAFETERIA CENTRO,Compra tarjeta,-3.20,Alimentacion,Cafeteria,Alimentacion > Cafeteria
+2026-01-05,RECIBO ELECTRICIDAD DEMO,Recibo domiciliado,-68.90,Vivienda y Servicios,Servicios,Vivienda y Servicios > Servicios
+2026-01-06,BIZUM ANA DEMO,Bizum recibido,18.00,Transferencias y Personal,Bizum recibido,Transferencias y Personal > Bizum recibido
+2026-01-08,METRO CIUDAD,Transporte,-12.00,Movilidad,Transporte,Movilidad > Transporte
+2026-01-10,FARMACIA BARRIO,Compra tarjeta,-9.80,Salud y Cuidado,Farmacia,Salud y Cuidado > Farmacia
+2026-01-12,PLATAFORMA STREAMING DEMO,Suscripcion,-11.99,Ocio y Cultura,Servicios Digitales,Ocio y Cultura > Servicios Digitales
+2026-01-15,RESTAURANTE PLAYA,Compra tarjeta,-27.40,Alimentacion,Restaurante,Alimentacion > Restaurante
+2026-01-20,TRANSFERENCIA AHORRO,Transferencia emitida,-250.00,Otros,Varios,Otros > Varios

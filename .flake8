@@ -1,0 +1,21 @@
+[flake8]
+max-line-length = 100
+extend-ignore =
+    E203,
+    W503
+exclude =
+    .git,
+    .venv,
+    venv,
+    __pycache__,
+    *.egg-info,
+    build,
+    dist,
+    .mypy_cache,
+    template
+per-file-ignores =
+    src/ui/dashboard.py: E402,E501,F401,F811,W291
+    src/ui/components/charts.py: E302,E501,E701,F401,W291,W293
+    src/ui/theme.py: E261,E302,E305,E501
+    tests/*: E501
+    tests/test_dashboard.py: E303,F401

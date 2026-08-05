@@ -1,0 +1,10 @@
+[run]
+omit =
+    src/__init__.py
+    src/*/__init__.py
+    src/support/*
+    src/ui/*
+
+[report]
+show_missing = True
+skip_covered = False

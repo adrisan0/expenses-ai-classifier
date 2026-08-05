@@ -1,0 +1,316 @@
+{
+  "name": "Root",
+  "children": [
+    {
+      "name": "Ingresos",
+      "children": [
+        {
+          "name": "Ingresos",
+          "children": []
+        },
+        {
+          "name": "Ingresos personales",
+          "children": []
+        },
+        {
+          "name": "Transferencia recibida",
+          "children": []
+        },
+        {
+          "name": "Bonificación",
+          "children": []
+        },
+        {
+          "name": "Inversiones",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Alimentacion",
+      "children": [
+        {
+          "name": "Alimentación",
+          "children": []
+        },
+        {
+          "name": "Supermercado",
+          "children": []
+        },
+        {
+          "name": "Frutería",
+          "children": []
+        },
+        {
+          "name": "Panadería",
+          "children": []
+        },
+        {
+          "name": "Cafetería",
+          "children": []
+        },
+        {
+          "name": "Restaurante",
+          "children": []
+        },
+        {
+          "name": "Bar",
+          "children": []
+        },
+        {
+          "name": "Comida rápida",
+          "children": []
+        },
+        {
+          "name": "Bebidas",
+          "children": []
+        },
+        {
+          "name": "Comida y Bebida",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Movilidad",
+      "children": [
+        {
+          "name": "Transporte",
+          "children": []
+        },
+        {
+          "name": "Aeropuerto",
+          "children": []
+        },
+        {
+          "name": "Combustible",
+          "children": []
+        },
+        {
+          "name": "Gasolina",
+          "children": []
+        },
+        {
+          "name": "Recarga",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Vivienda y Servicios",
+      "children": [
+        {
+          "name": "Servicios",
+          "children": []
+        },
+        {
+          "name": "Administración Pública",
+          "children": []
+        },
+        {
+          "name": "Asociaciones",
+          "children": []
+        },
+        {
+          "name": "Comisiones bancarias",
+          "children": []
+        },
+        {
+          "name": "Tarjetas Prepago",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Salud y Cuidado",
+      "children": [
+        {
+          "name": "Salud",
+          "children": []
+        },
+        {
+          "name": "Farmacia",
+          "children": []
+        },
+        {
+          "name": "Peluquería",
+          "children": []
+        },
+        {
+          "name": "Perfumería",
+          "children": []
+        },
+        {
+          "name": "Óptica",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Ocio y Cultura",
+      "children": [
+        {
+          "name": "Ocio",
+          "children": []
+        },
+        {
+          "name": "Cultura",
+          "children": []
+        },
+        {
+          "name": "Espectáculos",
+          "children": []
+        },
+        {
+          "name": "Entradas",
+          "children": []
+        },
+        {
+          "name": "Entretenimiento",
+          "children": []
+        },
+        {
+          "name": "Actividades",
+          "children": []
+        },
+        {
+          "name": "Juegos",
+          "children": []
+        },
+        {
+          "name": "Deporte",
+          "children": []
+        },
+        {
+          "name": "Deportes",
+          "children": []
+        },
+        {
+          "name": "Libros",
+          "children": []
+        },
+        {
+          "name": "Educación",
+          "children": []
+        },
+        {
+          "name": "Servicios Digitales",
+          "children": []
+        },
+        {
+          "name": "Servicios web",
+          "children": []
+        },
+        {
+          "name": "Software",
+          "children": []
+        },
+        {
+          "name": "Tecnología",
+          "children": []
+        },
+        {
+          "name": "Electrónica",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Viajes y Estancias",
+      "children": [
+        {
+          "name": "Alojamiento",
+          "children": []
+        },
+        {
+          "name": "Camping",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Compras y Comercio",
+      "children": [
+        {
+          "name": "Compras",
+          "children": []
+        },
+        {
+          "name": "Compras online",
+          "children": []
+        },
+        {
+          "name": "Compras varias",
+          "children": []
+        },
+        {
+          "name": "Comercio",
+          "children": []
+        },
+        {
+          "name": "Ropa",
+          "children": []
+        },
+        {
+          "name": "Tabaco",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Transferencias y Personal",
+      "children": [
+        {
+          "name": "Transferencia",
+          "children": []
+        },
+        {
+          "name": "Transferencia P2P",
+          "children": []
+        },
+        {
+          "name": "Transferencia personal",
+          "children": []
+        },
+        {
+          "name": "Bizum enviado",
+          "children": []
+        },
+        {
+          "name": "Bizum recibido",
+          "children": []
+        },
+        {
+          "name": "Pagos personales",
+          "children": []
+        },
+        {
+          "name": "Donaciones",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Otros",
+      "children": [
+        {
+          "name": "Varios",
+          "children": []
+        },
+        {
+          "name": "Revision manual",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Legado",
+      "children": [
+        {
+          "name": "Suscripciones",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
